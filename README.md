@@ -19,11 +19,11 @@
 1. **Download the Script**: Save the script with a `.sh` extension.
 2. **Make the Script Executable**: Open a terminal and run the following command:
     ```sh
-    chmod +x script_name.sh
+    chmod +x Informatics_573_script.sh
     ```
 3. **Run the Script**: Execute the script by running:
     ```sh
-    ./script_name.sh
+    ./Informatics_573_script.sh
     ```
 4. **Verify Output**: Check the `Informatics_573` directory in your home directory for the `data_summary.txt` file and the downloaded chromosome 1 assemblies.
 
